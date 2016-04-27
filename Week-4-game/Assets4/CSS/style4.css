@@ -49,3 +49,47 @@
  	margin:20px;
 
  }
+
+ #scoreBox {
+ 	font-size:18px;
+ 	color:green;
+ 	position:static;
+ 	float:left;
+ 	width:100px;
+ 	height:150px;
+ 	background-color:#4ad1cc;
+ 	margin:20px;
+ }
+
+ #jewelsContainer {
+ 	margin:20px;
+ 	position:center;
+ 	width:500px;
+
+
+
+ }
+
+ #totalScoreHD {
+ 	background-color: #00ced1;
+ 	color: #fff;
+ 	font-weight:bold;
+ 	width:230px;
+ 	margin:20px;
+ 	font-size:18px;
+ 	padding:10px;
+
+ }
+
+ #totalScoreBox {
+ 	font-weight: bold;
+ 	font-size: 50px;
+ 	color:#fff;
+ 	position: static;
+ 	float:left;
+ 	width:250px;
+ 	height:150px;
+ 	background-color: #00ced1;
+ 	margin:20px;
+
+ }
