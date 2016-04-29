@@ -1,1 +1,96 @@
- 
+ * {
+ 	font-family: "Times New Roman", Georgia, Serif;
+ }
+
+ body{
+ 	background-image: url("http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2011/03/background-pattern-design-31.jpg");
+ 	background-size: 100%;
+ 	width:500px;
+ }
+
+ #Title-Box {
+ 	font-weight: bold;
+ 	color: #fff;
+ 	font-size: 35px;
+ 	position:relative;
+ 	width:300px;
+ 	padding:20px;
+ 	background-color: #ffa500;
+ 	margin: 20px;
+ 	text-align: center;
+ }
+
+ #Instruction-Box {
+ 	font-weight: bold;
+ 	font-size:18px;
+ 	color: green;
+ 	position: relative;
+ 	float: left;
+ 	width: 500px;
+ 	height: 300px;
+ 	padding:10px;
+ 	padding-top: 80px;
+ 	padding-bottom:20px;
+ 	background-color: #faebd7;
+ 	margin:20px;
+
+
+ }
+
+ #numberBox {
+ 	font-weight: bold;
+ 	font-size: 50px;
+ 	color:purple;
+ 	position: static;
+ 	float:left;
+ 	width: 250px;
+ 	height:150px;
+ 	background-color: #00fa9a;
+ 	margin:20px;
+
+ }
+
+ #scoreBox {
+ 	font-size:18px;
+ 	color:green;
+ 	position:static;
+ 	float:left;
+ 	width:100px;
+ 	height:150px;
+ 	background-color:#4ad1cc;
+ 	margin:20px;
+ }
+
+ #jewelsContainer {
+ 	margin:20px;
+ 	position:center;
+ 	width:500px;
+
+
+
+ }
+
+ #totalScoreHD {
+ 	background-color: #00ced1;
+ 	color: #fff;
+ 	font-weight:bold;
+ 	width:230px;
+ 	margin:20px;
+ 	font-size:18px;
+ 	padding:10px;
+
+ }
+
+ #totalScoreBox {
+ 	font-weight: bold;
+ 	font-size: 50px;
+ 	color:#fff;
+ 	position: static;
+ 	float:left;
+ 	width:250px;
+ 	height:150px;
+ 	background-color: #00ced1;
+ 	margin:20px;
+ 	
+
+ }
